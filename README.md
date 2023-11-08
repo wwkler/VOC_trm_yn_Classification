@@ -1,4 +1,4 @@
-# VOC_trm_yn_predict
+# VOC_trm_yn_Classification
   * [미션] 고객의 VOC 정보를 바탕으로 해지 여부 예측하기
   * [데이터 출처] 기업 실무 데이터
   * [데이터 구분] Tabular 데이터 csv 파일 1개
